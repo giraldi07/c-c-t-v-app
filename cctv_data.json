@@ -1,0 +1,1352 @@
+[
+  {
+    "lokasi": "CCTV ANTAPANI-DEPAN BORMA 01",
+    "kode": "Ant",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ant.m3u8"
+  },
+  {
+    "lokasi": "CCTV ASIA AFRIKA",
+    "kode": "DepanTop",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8"
+  },
+  {
+    "lokasi": "CCTV ALUN-ALUN",
+    "kode": "ALUN",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8"
+  },
+  {
+    "lokasi": "CCTV ANTAPANI-DEPAN BORMA 02",
+    "kode": "Antt",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Antt.m3u8"
+  },
+  {
+    "lokasi": "CCTV BATAS KOTA 01",
+    "kode": "BatasKo",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/BatasKo.m3u8"
+  },
+  {
+    "lokasi": "CCTV BATAS KOTA 02",
+    "kode": "cibeurem",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/cibeurem.m3u8"
+  },
+  {
+    "lokasi": "CCTV BORMA CIKUTRA 01",
+    "kode": "CIK",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIK.m3u8"
+  },
+  {
+    "lokasi": "CCTV BRAGA 01",
+    "kode": "braga",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8"
+  },
+  {
+    "lokasi": "CCTV BRAGA 02",
+    "kode": "bragaa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaa.m3u8"
+  },
+  {
+    "lokasi": "CCTV BRAGA 02",
+    "kode": "CIKUT",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIKUT.m3u8"
+  },
+  {
+    "lokasi": "CCTV BRAGA 03",
+    "kode": "bragaaa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaaa.m3u8"
+  },
+  {
+    "lokasi": "CCTV BRAGA 1-NARIPAN 01",
+    "kode": "Nar",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nar.m3u8"
+  },
+  {
+    "lokasi": "CCTV BRAGA 1-NARIPAN 02",
+    "kode": "Nari",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nari.m3u8"
+  },
+  {
+    "lokasi": "CCTV BUAH BATU-DEPAN GRIYA 02",
+    "kode": "Buahgriya",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgriya.m3u8"
+  },
+  {
+    "lokasi": "CCTV BUBAT KORDON",
+    "kode": "BUB",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8"
+  },
+  {
+    "lokasi": "CCTV BURANGRANG BPI 01",
+    "kode": "burangrangbpi",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpi.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIATEUL 01",
+    "kode": "CIAT",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIAT.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIATEUL 02",
+    "kode": "burangrangbpii",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpii.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIATEUL 02",
+    "kode": "CIA",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIA.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIBADUYUT-DEKAT TPS 01",
+    "kode": "Cibatps",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibatps.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIBADUYUT-DEKAT TPS 02",
+    "kode": "Cibaytps",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibaytps.m3u8"
+  },
+  {
+    "lokasi": "CCTV CICABE_01",
+    "kode": "CICA",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CICA.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "CIC",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIC.m3u8"
+  },
+  {
+    "lokasi": "CCTV CICADAS-GATEWAY_01",
+    "kode": "CI",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CI.m3u8"
+  },
+  {
+    "lokasi": "CCTV CICADAS-GATEWAY_02",
+    "kode": "CICAB",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CICAB.m3u8"
+  },
+  {
+    "lokasi": "CCTV CICENDO - KB KAWUNG 01",
+    "kode": "Cicendo",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicendo.m3u8"
+  },
+  {
+    "lokasi": "CCTV CICENDO - KB KAWUNG 02",
+    "kode": "Cicend",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicend.m3u8"
+  },
+  {
+    "lokasi": "CCTV CICENDO - KB KAWUNG 03",
+    "kode": "Cicen",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicen.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIHAMPELAS_01",
+    "kode": "CIHA",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIHA.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIHAMPELAS_02",
+    "kode": "CIH",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIH.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Cihampelasgan",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelasgan.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "CihampelasGand",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CihampelasGand.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIHAMPELAS-SKYWALK 01",
+    "kode": "Cihamsky",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihamsky.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIHAMPELAS-SKYWALK 03",
+    "kode": "Cihampsky",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampsky.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIHAMPELAS-SKYWALK 04",
+    "kode": "Cihampelsky",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelsky.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIHAMPELAS -SKYWALK 05",
+    "kode": "Cihampelassky",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelassky.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIJERAH PAL TILU 02",
+    "kode": "paltiluu",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/paltiluu.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIKUTRA-TMP 01",
+    "kode": "Ciktm",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ciktm.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIKUTRA-TMP 02",
+    "kode": "Ciktmp",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ciktmp.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIMINDI-JEMBATAN_01",
+    "kode": "CIMINDI",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMINDI.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIMINDI-JEMBATAN_02",
+    "kode": "CIMIND",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMIND.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIMINDI-JEMBATAN_03",
+    "kode": "CIMIN",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMIN.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIMINDI-KHARISMA_01",
+    "kode": "CIMI",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMI.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIMINDI-KHARISMA_02",
+    "kode": "CIM",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIM.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIMINDI-SUKARAJA_01",
+    "kode": "CIMND",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMND.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIPAGANTI-NYLAND 01",
+    "kode": "Cipany",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cipany.m3u8"
+  },
+  {
+    "lokasi": "CCTV CIPAGANTI-NYLAND 01",
+    "kode": "CIMD",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8"
+  },
+  {
+    "lokasi": "CCTV DAGO 1-CIKAPAYANG 01",
+    "kode": "Cipanyl",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cipanyl.m3u8"
+  },
+  {
+    "lokasi": "CCTV DAGO 2-SMA 1 01",
+    "kode": "Dagcik",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagcik.m3u8"
+  },
+  {
+    "lokasi": "CCTV DAGO 2-SMA 1 01",
+    "kode": "Dagsm",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagsm.m3u8"
+  },
+  {
+    "lokasi": "CCTV DAGO 3-BORROMEUS 01",
+    "kode": "Dagsma",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagsma.m3u8"
+  },
+  {
+    "lokasi": "CCTV DAGO 3-BORROMEUS 01",
+    "kode": "Dagbr",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbr.m3u8"
+  },
+  {
+    "lokasi": "CCTV DAGO 4 01",
+    "kode": "Dagbor",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbor.m3u8"
+  },
+  {
+    "lokasi": "CCTV DAGO 4 02",
+    "kode": "Dagos",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagos.m3u8"
+  },
+  {
+    "lokasi": "CCTV DALAM KAUM-PEDESTRIAN 01",
+    "kode": "Dagoss",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagoss.m3u8"
+  },
+  {
+    "lokasi": "CCTV DALAM KAUM-PEDESTRIAN 02",
+    "kode": "Dalkaum",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dalkaum.m3u8"
+  },
+  {
+    "lokasi": "CCTV DEPAN PENDOPO 01",
+    "kode": "Deppen",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppen.m3u8"
+  },
+  {
+    "lokasi": "CCTV DEPAN PENDOPO 02",
+    "kode": "Deppendo",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8"
+  },
+  {
+    "lokasi": "CCTV DEPAN RSUD UJUNG BERUNG 01",
+    "kode": "rsud",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rsud.m3u8"
+  },
+  {
+    "lokasi": "CCTV DEPAN RSUD UJUNG BERUNG 02",
+    "kode": "rsudd",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rsudd.m3u8"
+  },
+  {
+    "lokasi": "CCTV DEPAN TERMINAL CICAHEUM 01",
+    "kode": "terminalcicaheum",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/terminalcicaheum.m3u8"
+  },
+  {
+    "lokasi": "CCTV DEPAN TERMINAL CICAHEUM 02",
+    "kode": "terminalcicaheumm",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/terminalcicaheumm.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Dipaunpad",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunpad.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Dipaunp",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunp.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Dipaun",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaun.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Dipaunik",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunik.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Dipa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipa.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Dipati",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipati.m3u8"
+  },
+  {
+    "lokasi": "CCTV FLY OVER ANTAPANI 01",
+    "kode": "Flyant",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flyant.m3u8"
+  },
+  {
+    "lokasi": "CCTV FLY OVER ANTAPANI 02",
+    "kode": "Flyantpa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flyantpa.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Flycim",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycim.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Flycimin",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycimin.m3u8"
+  },
+  {
+    "lokasi": "CCTV FLY OVER KOPO-LEUWI PANJANG 01",
+    "kode": "Flykop",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykop.m3u8"
+  },
+  {
+    "lokasi": "CCTV FLY OVER KOPO-LEUWI PANJANG 02",
+    "kode": "Flykopo",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykopo.m3u8"
+  },
+  {
+    "lokasi": "CCTV GASIBU_01",
+    "kode": "GASIBU",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8"
+  },
+  {
+    "lokasi": "CCTV GASIBU_02",
+    "kode": "GASI",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/GASI.m3u8"
+  },
+  {
+    "lokasi": "CCTV GATOT SUBROTO-BINONG_01",
+    "kode": "Gatsubin",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsubin.m3u8"
+  },
+  {
+    "lokasi": "CCTV GATOT SUBROTO-BINONG_02",
+    "kode": "Gatbino",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatbino.m3u8"
+  },
+  {
+    "lokasi": "CCTV GATOT SUBROTO - TSM_01",
+    "kode": "Gatsusub",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsusub.m3u8"
+  },
+  {
+    "lokasi": "CCTV GATOT SUBROTO - TSM_02",
+    "kode": "Gatsusubro",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsusubro.m3u8"
+  },
+  {
+    "lokasi": "CCTV GEDEBAGE_01",
+    "kode": "GEDEBAGE",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8"
+  },
+  {
+    "lokasi": "CCTV GEDEBAGE_02",
+    "kode": "GEDEB",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEB.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "bonbin",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbin.m3u8"
+  },
+  {
+    "lokasi": "CCTV GERBANG KEBON BINATANG 02",
+    "kode": "bonbinn",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbinn.m3u8"
+  },
+  {
+    "lokasi": "CCTV HUSEIN 01 - ST HALTE",
+    "kode": "husein",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/husein.m3u8"
+  },
+  {
+    "lokasi": "CCTV HUSEIN 03 - ST HALTE",
+    "kode": "huse",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/huse.m3u8"
+  },
+  {
+    "lokasi": "CCTV ITB KEBUN BINATANG 01",
+    "kode": "ITBKebun",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebun.m3u8"
+  },
+  {
+    "lokasi": "CCTV ITB KEBUN BINATANG 02",
+    "kode": "ITBKebu",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebu.m3u8"
+  },
+  {
+    "lokasi": "CCTV ITB KEBUN BINATANG 03",
+    "kode": "ITBKeb",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKeb.m3u8"
+  },
+  {
+    "lokasi": "CCTV ITC KEBON KALAPA 01",
+    "kode": "ITCkebonk",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebonk.m3u8"
+  },
+  {
+    "lokasi": "CCTV ITC KEBON KALAPA 02",
+    "kode": "ITCkebon",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebon.m3u8"
+  },
+  {
+    "lokasi": "CCTV JAKARTA-HKBP_01",
+    "kode": "JAKA",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/JAKA.m3u8"
+  },
+  {
+    "lokasi": "CCTV JAKARTA-HKBP_02",
+    "kode": "JAK",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/JAK.m3u8"
+  },
+  {
+    "lokasi": "CCTV JALAN CITARUM-PET PARK 01",
+    "kode": "Citpet",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Citpet.m3u8"
+  },
+  {
+    "lokasi": "CCTV JALAN CITARUM-PET PARK 02",
+    "kode": "Citpetpark",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Citpetpark.m3u8"
+  },
+  {
+    "lokasi": "CCTV JALAN GARUT-KPU PROV 02",
+    "kode": "Garutkp",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Garutkp.m3u8"
+  },
+  {
+    "lokasi": "CCTV JALAN IR. SOEKARNO 01",
+    "kode": "Soe",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soe.m3u8"
+  },
+  {
+    "lokasi": "CCTV JALAN IR. SOEKARNO 02",
+    "kode": "Soekar",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekar.m3u8"
+  },
+  {
+    "lokasi": "CCTV JALAN KEMBAR BARU 23-SMA 11 01",
+    "kode": "Kem",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kem.m3u8"
+  },
+  {
+    "lokasi": "CCTV JALAN KEMBAR BARU 23-SMA 11 02",
+    "kode": "Kembar",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kembar.m3u8"
+  },
+  {
+    "lokasi": "CCTV Jalan Riau-ASMTB 01",
+    "kode": "riauasmtb",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtb.m3u8"
+  },
+  {
+    "lokasi": "CCTV Jalan Riau-ASMTB 02",
+    "kode": "riauasmtbb",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtbb.m3u8"
+  },
+  {
+    "lokasi": "CCTV JALAPRANG 01",
+    "kode": "Jalaprang",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Jalaprang.m3u8"
+  },
+  {
+    "lokasi": "CCTV JAMIKA_02",
+    "kode": "JAMI",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/JAMI.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL AHMAD YANI 02",
+    "kode": "AhmadYanipertigaanmalabardua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL AHMAD YANI PERTIGAAN MALABAR 01",
+    "kode": "AhmadYanipertigaanmalabar",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabar.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL AMBON SAPARUA 01",
+    "kode": "ambonsaparua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/ambonsaparua.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL AMBON SAPARUA 02",
+    "kode": "ambonsaparuaa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/ambonsaparuaa.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. ANGGREK 01",
+    "kode": "Anggrek",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Anggrek.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. ANGGREK 02",
+    "kode": "Angg",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Angg.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. ANTAPANI-TERMINAL ANTAPANI 01",
+    "kode": "Anter",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Anter.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. ARCAMANIK 01",
+    "kode": "Arcamanik",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Arcamanik.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. ARCAMANIK 01",
+    "kode": "Anterminal",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Anterminal.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. ARCAMANIK 02",
+    "kode": "Arca",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Arca.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL ASIA AFRIKA BRI TOWER 02",
+    "kode": "AsiaAfrikaBRITowerdua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL ASIA AFRIKA BRI TOWER 03",
+    "kode": "AsiaAfrikaBRITowertiga",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowertiga.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Cigadung",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cigadung.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Cigadungdua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cigadungdua.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. CIHAPIT 01",
+    "kode": "Cihapit",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cihapit.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. CIHAPIT 02",
+    "kode": "Ciha",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Ciha.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL CIKUTRA PERTIGAAN 01",
+    "kode": "CikutrapertigaanBojongkoneng",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CikutrapertigaanBojongkoneng.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL KOPO SEBRANG MIKO MALL 01",
+    "kode": "Koposebrangmikomall",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomall.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL KOPO SEBRANG MIKO MALL 02",
+    "kode": "Koposebrangmikomalldua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomalldua.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL LENGKONG KECIL 01",
+    "kode": "lengkongbesar",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lengkongbesar.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL LENGKONG KECIL 02",
+    "kode": "lengkongbesarr",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lengkongbesarr.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. PALASARI 01",
+    "kode": "Pal",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pal.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. PALASARI 02",
+    "kode": "Palasari",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Palasari.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. PUNGKUR-PASUNDAN 01",
+    "kode": "Pung",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pung.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. PUNGKUR-PASUNDAN 02",
+    "kode": "Pungkur",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pungkur.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL PURNAWARMAN BEC 01",
+    "kode": "PurnawarmanBEC",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL PURNAWARMAN BEC 02",
+    "kode": "PurnawarmanBECdua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBECdua.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. PURWAKARTA-GASMIN 01",
+    "kode": "Purwa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Purwa.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. PURWAKARTA-GASMIN 02",
+    "kode": "Purwakarta",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Purwakarta.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Marta",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Marta.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Martadinata",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Martadinata.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "riaupnbdg",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riaupnbdg.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "riaupnbdgg",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riaupnbdgg.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "riausiter",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riausiter.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. RUMAH SAKIT-CINAMBO 01",
+    "kode": "Rumahsak",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumahsak.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. RUMAH SAKIT-CINAMBO 02",
+    "kode": "Rumahsakit",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumahsakit.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. RUMAH SAKIT-UJUNG BERUNG 01",
+    "kode": "Rumujung",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumujung.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. RUMAH SAKIT-UJUNG BERUNG 02",
+    "kode": "Rumujungber",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumujungber.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL SOEKARNO HATTA-KPU 01",
+    "kode": "Soettakp",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soettakp.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL SOETA METRO DEALER MERCY 01",
+    "kode": "SoetaMetrodealerMercy",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SoetaMetrodealerMercy.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL SUKAJADI PVJ 01",
+    "kode": "SukajadiPVJ",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJ.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL SUKAJADI PVJ 02",
+    "kode": "SukajadiPVJdua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJdua.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. SURAPATI - GASIBU 01",
+    "kode": "Surat",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. SURAPATI - GASIBU 02",
+    "kode": "Sura",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sura.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. SURYA SUMANTRI 01",
+    "kode": "Suryamantri",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Suryamantri.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. SURYA SUMANTRI 02",
+    "kode": "Sury",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sury.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. SUTAMI 01",
+    "kode": "Sutami",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sutami.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. SUTAMI 02",
+    "kode": "Suta",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Suta.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL TERUSAN BUAH BATU 01",
+    "kode": "TerusanBuahBatu",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/TerusanBuahBatu.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL TERUSAN BUAH BATU 02",
+    "kode": "TerusanBuahBatudua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/TerusanBuahBatudua.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "TubagusIsmail",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/TubagusIsmail.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. TURANGGA 01",
+    "kode": "Turangga",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Turangga.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL. TURANGGA 02",
+    "kode": "Tura",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Tura.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL WAAS BATUNUNGGAL 01",
+    "kode": "WaaspertigaankompleksBatununggal",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggal.m3u8"
+  },
+  {
+    "lokasi": "CCTV JL WAAS BATUNUNGGAL 02",
+    "kode": "WaaspertigaankompleksBatununggaldua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggaldua.m3u8"
+  },
+  {
+    "lokasi": "CCTV KATAMSO-PAHLAWAN_01",
+    "kode": "Katamso",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Katamso.m3u8"
+  },
+  {
+    "lokasi": "CCTV KATAMSO-PAHLAWAN_02",
+    "kode": "KATAM",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KATAM.m3u8"
+  },
+  {
+    "lokasi": "CCTV KATAMSO-PAHLAWAN_03",
+    "kode": "KATA",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KATA.m3u8"
+  },
+  {
+    "lokasi": "CCTV KEBON KAWUNG - PASKAL 01",
+    "kode": "KebonKam",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKam.m3u8"
+  },
+  {
+    "lokasi": "CCTV KEBON KAWUNG - PASKAL 02",
+    "kode": "KebonKa",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKa.m3u8"
+  },
+  {
+    "lokasi": "CCTV KEBON-KOPI_BANDUNG",
+    "kode": "KEBO",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8"
+  },
+  {
+    "lokasi": "CCTV KEBON-KOPI-CIMAHI",
+    "kode": "KEBON",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8"
+  },
+  {
+    "lokasi": "CCTV KEPATIHAN",
+    "kode": "AL",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/AL.m3u8"
+  },
+  {
+    "lokasi": "CCTV KEPATIHAN TENGAH 01",
+    "kode": "KepatihanTengah",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengah.m3u8"
+  },
+  {
+    "lokasi": "CCTV KEPATIHAN TENGAH 02",
+    "kode": "KepatihanTengahh",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengahh.m3u8"
+  },
+  {
+    "lokasi": "CCTV KIRCON_01",
+    "kode": "KIRCON",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KIRCON.m3u8"
+  },
+  {
+    "lokasi": "CCTV KIRCON_02",
+    "kode": "KIRC",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KIRC.m3u8"
+  },
+  {
+    "lokasi": "CCTV KOPO BIZPARK / DPN BRI KOPO 02",
+    "kode": "KOPOBiz",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KOPOBiz.m3u8"
+  },
+  {
+    "lokasi": "CCTV KOPO-RS BANDUNG KIWARI 01",
+    "kode": "Kopors",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kopors.m3u8"
+  },
+  {
+    "lokasi": "CCTV KOPO-RS BANDUNG KIWARI 02",
+    "kode": "Koporsk",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koporsk.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "lpgasibu",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lpgasibu.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "lpgasibuu",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lpgasibuu.m3u8"
+  },
+  {
+    "lokasi": "CCTV MARTANEGARA SATPOL PP 01",
+    "kode": "martanegara",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegara.m3u8"
+  },
+  {
+    "lokasi": "CCTV MARTANEGARA SATPOL PP 02",
+    "kode": "martanegaraa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegaraa.m3u8"
+  },
+  {
+    "lokasi": "CCTV MERDEKA-JAWA 01",
+    "kode": "Merjaw",
+    "link": "https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaw.m3u8"
+  },
+  {
+    "lokasi": "CCTV MERDEKA-JAWA 02",
+    "kode": "Merjaww",
+    "link": "https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaww.m3u8"
+  },
+  {
+    "lokasi": "CCTV MOH TOHA-DEPAN HUBDAM 02",
+    "kode": "Tohdepan",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohdepan.m3u8"
+  },
+  {
+    "lokasi": "CCTV MOH TOHA-RS SARTIKA ASIH 01",
+    "kode": "Tohr",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohr.m3u8"
+  },
+  {
+    "lokasi": "CCTV MOH TOHA-RS SARTIKA ASIH 02",
+    "kode": "Tohrs",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohrs.m3u8"
+  },
+  {
+    "lokasi": "CCTV PAGARSIH 01",
+    "kode": "Pagarsih",
+    "link": "https://pelindung.bandung.go.id/video/HUAWEI/Pagarsih.m3u8"
+  },
+  {
+    "lokasi": "CCTV PAGARSIH 02",
+    "kode": "Pagarsihh",
+    "link": "https://pelindung.bandung.go.id:3443/video/HUAWEI/Pagarsihh.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASAR BARU 02",
+    "kode": "Otistasebrangpasarbarudua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbarudua.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASAR CIROYOM",
+    "kode": "pasarciroyom",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarciroyom.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASAR CIROYOM 02",
+    "kode": "pasarciroyomm",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarciroyomm.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASAR KIARACONDONG 01",
+    "kode": "pasarkircon",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkircon.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASAR KIARACONDONG 02",
+    "kode": "pasarkirconn",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkirconn.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASAR KOSAMBI 01",
+    "kode": "PasarKosam",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASAR KOSAMBI 02",
+    "kode": "PasarKomb",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "pasarsederhana",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarsederhana.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "pasarsederhanaa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarsederhanaa.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "DrDjunjunanBTC",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTC.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "DrDjunjunanBTCdua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASTEUR-PASOPATI_01",
+    "kode": "PASTEUR",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/PASTEUR.m3u8"
+  },
+  {
+    "lokasi": "CCTV PASTEUR-PASOPATI_02",
+    "kode": "PAST",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/PAST.m3u8"
+  },
+  {
+    "lokasi": "CCTV Per3an Soekarno-Asia Afrika 01",
+    "kode": "asiaafrika",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/asiaafrika.m3u8"
+  },
+  {
+    "lokasi": "CCTV PER4AN DALEM KAUM-OTISTA 01",
+    "kode": "DlOtis",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DlOtis.m3u8"
+  },
+  {
+    "lokasi": "CCTV PER4AN DALEM KAUM-OTISTA 02",
+    "kode": "DlOtiss",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DlOtiss.m3u8"
+  },
+  {
+    "lokasi": "CCTV PEREMPATAN KIRCON BINONG 01",
+    "kode": "kirconbinong",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinong.m3u8"
+  },
+  {
+    "lokasi": "CCTV PEREMPATAN KIRCON BINONG 02",
+    "kode": "kirconbinongg",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8"
+  },
+  {
+    "lokasi": "CCTV PEREMPATAN LASWI-GATSU 01",
+    "kode": "Perlas",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perlas.m3u8"
+  },
+  {
+    "lokasi": "CCTV PEREMPATAN LASWI-GATSU 02",
+    "kode": "Perlaswi",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perlaswi.m3u8"
+  },
+  {
+    "lokasi": "CCTV PERINTIS KEMERDEKAAN 01",
+    "kode": "perintiskemer",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/perintiskemer.m3u8"
+  },
+  {
+    "lokasi": "CCTV PERINTIS KEMERDEKAAN 02",
+    "kode": "perintiskemerdekaan",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/perintiskemerdekaan.m3u8"
+  },
+  {
+    "lokasi": "CCTV PERTIGAAN AH NASUTION-CIJAMBE 01",
+    "kode": "Pernas",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernas.m3u8"
+  },
+  {
+    "lokasi": "CCTV PERTIGAAN AH NASUTION-CIJAMBE 02",
+    "kode": "Pernasu",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasu.m3u8"
+  },
+  {
+    "lokasi": "CCTV PERTIGAAN AH NASUTION-PASIR IMPUN 01",
+    "kode": "Pernasution",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasution.m3u8"
+  },
+  {
+    "lokasi": "CCTV PERTIGAAN AH NASUTION-PASIR IMPUN 02",
+    "kode": "Pernasutionpasir",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasutionpasir.m3u8"
+  },
+  {
+    "lokasi": "CCTV PERTIGAAN CICADAS KIRCON 01",
+    "kode": "pertigaancicadas",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pertigaancicadas.m3u8"
+  },
+  {
+    "lokasi": "CCTV PERTIGAAN CICADAS KIRCON 02",
+    "kode": "pertigaancicadass",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pertigaancicadass.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Musto",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Musto.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Mustofa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Mustofa.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "parkhotel",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/parkhotel.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "parkhotell",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/parkhotell.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Muspus",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspus.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Muspusdai",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspusdai.m3u8"
+  },
+  {
+    "lokasi": "CCTV RAJAWALI 01",
+    "kode": "rajawali",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rajawali.m3u8"
+  },
+  {
+    "lokasi": "CCTV RAJAWALI 02",
+    "kode": "rajawalii",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rajawalii.m3u8"
+  },
+  {
+    "lokasi": "CCTV RANCANUMPANG 01",
+    "kode": "rancanumpang",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rancanumpang.m3u8"
+  },
+  {
+    "lokasi": "CCTV RANCANUMPANG 02",
+    "kode": "rancanumpangg",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rancanumpangg.m3u8"
+  },
+  {
+    "lokasi": "CCTV RIAU BANDA",
+    "kode": "banda",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/banda.m3u8"
+  },
+  {
+    "lokasi": "CCTV SEBRANG PASAR BARU 01",
+    "kode": "Otistasebrangpasarbaru",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbaru.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Setiabudibung",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabudibung.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Setiabbudibungur",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabbudibungur.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "Setiabudidepanterminal",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabudidepanterminal.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "gerlong",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlong.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "gerlongg",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlongg.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "gerlonggg",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlonggg.m3u8"
+  },
+  {
+    "lokasi": "CCTV SIMPANG BRAGA 02",
+    "kode": "AsiaAfrikaSimpangBragadua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragadua.m3u8"
+  },
+  {
+    "lokasi": "CCTV SIMPANG BRAGA 03",
+    "kode": "AsiaAfrikaSimpangBragatiga",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8"
+  },
+  {
+    "lokasi": "CCTV SIMPANG DAGO 01",
+    "kode": "DAGO",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/DAGO.m3u8"
+  },
+  {
+    "lokasi": "CCTV SIMPANG DAGO 02",
+    "kode": "DAG",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/DAG.m3u8"
+  },
+  {
+    "lokasi": "CCTV SIMPANG DAGO 03",
+    "kode": "DAGOD",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/DAGOD.m3u8"
+  },
+  {
+    "lokasi": "CCTV SIMPANG KERETA KIARA CONDONG-FLY OVER 01",
+    "kode": "Kereta",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kereta.m3u8"
+  },
+  {
+    "lokasi": "CCTV SIMPANG KERETA KIARA CONDONG-FLY OVER 02",
+    "kode": "Keretakir",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Keretakir.m3u8"
+  },
+  {
+    "lokasi": "CCTV SOEKARNO HATTA-GEDEBAGE 01",
+    "kode": "Soekarnogede",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekarnogede.m3u8"
+  },
+  {
+    "lokasi": "CCTV SOEKARNO HATTA-GEDEBAGE 02",
+    "kode": "Soekarnogedebage",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekarnogedebage.m3u8"
+  },
+  {
+    "lokasi": "CCTV SOR ARCAMANIK-1",
+    "kode": "Viadua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Viadua.m3u8"
+  },
+  {
+    "lokasi": "CCTV SOR ARCAMANIK-2",
+    "kode": "Viaductdua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Viaductdua.m3u8"
+  },
+  {
+    "lokasi": "CCTV SUDIRMAN-KEMENAG 01",
+    "kode": "Sudikem",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Sudikem.m3u8"
+  },
+  {
+    "lokasi": "CCTV SUDIRMAN-KEMENAG 02",
+    "kode": "Sudikemenag",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Sudikemenag.m3u8"
+  },
+  {
+    "lokasi": "CCTV SUKAJADI-SETIABUDHI 01",
+    "kode": "Sukajadi",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sukajadi.m3u8"
+  },
+  {
+    "lokasi": "CCTV SUKAJADI-SETIABUDHI 02",
+    "kode": "Sukaja",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sukaja.m3u8"
+  },
+  {
+    "lokasi": "CCTV SUKAJADI SUKAGALIH 01",
+    "kode": "sukajadisukagalih",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalih.m3u8"
+  },
+  {
+    "lokasi": "CCTV SUKAJADI SUKAGALIH 02",
+    "kode": "sukajadisukagalihh",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalihh.m3u8"
+  },
+  {
+    "lokasi": "CCTV SURAPATI-CORE_01",
+    "kode": "SURAB",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/SURAB.m3u8"
+  },
+  {
+    "lokasi": "CCTV SURAPATI-CORE_02",
+    "kode": "SURA",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/SURA.m3u8"
+  },
+  {
+    "lokasi": "CCTV TALAGA BODAS KADIN 01",
+    "kode": "kadin",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kadin.m3u8"
+  },
+  {
+    "lokasi": "CCTV TALAGA BODAS KADIN 02",
+    "kode": "kadinn",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kadinn.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMAN PRAMUKA 01",
+    "kode": "TamanPri",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TamanPri.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMAN SARI-DAYANG SUMBI 01",
+    "kode": "Tamansari",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansari.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMAN SARI-DAYANG SUMBI 02",
+    "kode": "TamanSa",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TamanSa.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMANSARI UNISBA 01",
+    "kode": "unisba",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/unisba.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMANSARI UNISBA 02",
+    "kode": "unisbaa",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/unisbaa.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMAN SARI - WS 01",
+    "kode": "Tamansr",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansr.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMAN SARI - WS 02",
+    "kode": "Tamansri",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansri.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMBLONG",
+    "kode": "tamblong",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/tamblong.m3u8"
+  },
+  {
+    "lokasi": "CCTV TAMBLONG 01",
+    "kode": "Tamblong",
+    "link": "https://pelindung.bandung.go.id/pelindung.bandung.go.id:3443/video/HIKSVISION/Tamblong.m3u8"
+  },
+  {
+    "lokasi": "CCTV TEGALEGA_01",
+    "kode": "TEGALEGA",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TEGALEGA.m3u8"
+  },
+  {
+    "lokasi": "CCTV TEGALEGA_02",
+    "kode": "TEGA",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TEGA.m3u8"
+  },
+  {
+    "lokasi": "Tanpa Nama",
+    "kode": "IrHJuandaTerminaldagodua",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/IrHJuandaTerminaldagodua.m3u8"
+  },
+  {
+    "lokasi": "CCTV TERUSAN BUAH BATU-JEMBATAN TOL 01",
+    "kode": "Terbuah",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuah.m3u8"
+  },
+  {
+    "lokasi": "CCTV TERUSAN BUAH BATU-JEMBATAN TOL 02",
+    "kode": "Terbuahbatu",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuahbatu.m3u8"
+  },
+  {
+    "lokasi": "CCTV VIADUCT 1 01",
+    "kode": "Via",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Via.m3u8"
+  },
+  {
+    "lokasi": "CCTV VIADUCT 1 02",
+    "kode": "Viaduct",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Viaduct.m3u8"
+  },
+  {
+    "lokasi": "CCTV WASTUKENCANA 01",
+    "kode": "balkot",
+    "link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/balkot.m3u8"
+  },
+  {
+    "lokasi": "CCTV YANI - LASWI 01",
+    "kode": "Yanilaswi",
+    "link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Yanilaswi.m3u8"
+  }
+]

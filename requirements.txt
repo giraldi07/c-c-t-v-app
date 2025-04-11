@@ -1,0 +1,4 @@
+opencv-python>=4.5.5
+pillow>=9.0.1
+ttkbootstrap>=1.5.1
+numpy>=1.22.3
