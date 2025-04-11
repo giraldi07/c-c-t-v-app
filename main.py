@@ -1,15 +1,14 @@
 import ctypes
 ctypes.windll.shcore.SetProcessDpiAwareness(1)  # Untuk scaling DPI yang baik
 import json
-import os
-import subprocess
 import tkinter as tk
 from tkinter import ttk, messagebox
 from ttkbootstrap import Style
 import threading
 import cv2
 from PIL import Image, ImageTk
-from functools import partial
+import queue
+import time
 
 class AboutWindow:
     def __init__(self, parent):
@@ -92,7 +91,10 @@ class CCTVViewer:
         self.cap = None
         self.video_thread = None
         self.running = False
-        self.current_imgtk = None  # To prevent garbage collection
+        self.current_imgtk = None
+        self.frame_queue = queue.Queue(maxsize=2)  # Buffer untuk frame
+        self.max_fps = 30  # Frame rate maksimum
+        self.last_frame_time = 0
         
         self.create_widgets()
         self.create_menu()
@@ -288,6 +290,9 @@ class CCTVViewer:
         self.running = True
         self.video_thread = threading.Thread(target=self._video_stream_thread, args=(url, lokasi), daemon=True)
         self.video_thread.start()
+        
+        # Start frame update loop
+        self._update_video_frame()
 
     def _video_stream_thread(self, url, lokasi):
         try:
@@ -295,26 +300,20 @@ class CCTVViewer:
             self.cap = cv2.VideoCapture(url)
             
             if not self.cap.isOpened():
-                self.status_var.set(f"Gagal membuka stream: {lokasi}")
-                self.video_canvas.create_text(
-                    self.video_canvas.winfo_width()//2, 
-                    self.video_canvas.winfo_height()//2,
-                    text=f"Gagal memuat CCTV: {lokasi}",
-                    fill="white",
-                    font=('Helvetica', 12),
-                    tags="error"
-                )
+                self.master.after(0, self._show_error, f"Gagal membuka stream: {lokasi}")
                 return
                 
-            self.status_var.set(f"Sedang menampilkan: {lokasi}")
+            self.master.after(0, lambda: self.status_var.set(f"Sedang menampilkan: {lokasi}"))
             
-            # Get frame rate to control display speed
+            # Get frame rate from stream if available
             fps = self.cap.get(cv2.CAP_PROP_FPS)
             if fps <= 0:
-                fps = 30  # Default if cannot get fps
-            delay = int(1000 / fps)
+                fps = self.max_fps
+            frame_delay = 1.0 / fps
             
             while self.running:
+                start_time = time.time()
+                
                 ret, frame = self.cap.read()
                 if not ret:
                     break
@@ -327,35 +326,72 @@ class CCTVViewer:
                 canvas_height = self.video_canvas.winfo_height()
                 
                 if canvas_width > 0 and canvas_height > 0:
-                    frame = cv2.resize(frame, (canvas_width, canvas_height))
+                    # Pertahankan aspect ratio
+                    h, w = frame.shape[:2]
+                    ratio = min(canvas_width/w, canvas_height/h)
+                    new_size = (int(w*ratio), int(h*ratio))
+                    frame = cv2.resize(frame, new_size)
                 
                 # Konversi ke format yang bisa ditampilkan di Tkinter
                 img = Image.fromarray(frame)
-                self.current_imgtk = ImageTk.PhotoImage(image=img)  # Keep reference
+                img_tk = ImageTk.PhotoImage(image=img)
                 
-                # Update gambar di canvas
-                self.video_canvas.delete("all")
-                self.video_canvas.create_image(0, 0, anchor=tk.NW, image=self.current_imgtk)
+                # Masukkan frame ke queue jika ada ruang
+                try:
+                    self.frame_queue.put_nowait(img_tk)
+                except queue.Full:
+                    pass  # Lewati frame jika queue penuh
                 
-                # Update the window
-                self.master.update_idletasks()
+                # Hitung waktu yang dibutuhkan untuk memproses frame
+                processing_time = time.time() - start_time
                 
-                # Delay untuk mengurangi beban CPU dan sinkronisasi frame rate
-                cv2.waitKey(delay)
-                
+                # Delay untuk sinkronisasi frame rate
+                if processing_time < frame_delay:
+                    time.sleep(frame_delay - processing_time)
+                    
         except Exception as e:
-            self.status_var.set(f"Error: {str(e)}")
-            self.video_canvas.create_text(
-                self.video_canvas.winfo_width()//2, 
-                self.video_canvas.winfo_height()//2,
-                text=f"Terjadi error: {str(e)}",
-                fill="white",
-                font=('Helvetica', 12),
-                tags="error"
-            )
+            self.master.after(0, self._show_error, f"Error: {str(e)}")
         finally:
             if self.cap:
                 self.cap.release()
+
+    def _update_video_frame(self):
+        if not self.running:
+            return
+            
+        try:
+            # Dapatkan frame terbaru dari queue
+            img_tk = self.frame_queue.get_nowait()
+            
+            # Update gambar di canvas
+            self.video_canvas.delete("all")
+            self.video_canvas.create_image(
+                self.video_canvas.winfo_width()//2, 
+                self.video_canvas.winfo_height()//2,
+                anchor=tk.CENTER,
+                image=img_tk
+            )
+            
+            # Simpan referensi gambar
+            self.current_imgtk = img_tk
+            
+        except queue.Empty:
+            pass  # Tidak ada frame baru
+        
+        # Jadwalkan update berikutnya
+        self.master.after(10, self._update_video_frame)
+
+    def _show_error(self, message):
+        self.status_var.set(message)
+        self.video_canvas.delete("all")
+        self.video_canvas.create_text(
+            self.video_canvas.winfo_width()//2, 
+            self.video_canvas.winfo_height()//2,
+            text=message,
+            fill="white",
+            font=('Helvetica', 12),
+            tags="error"
+        )
 
     def stop_stream(self):
         self.running = False
@@ -378,6 +414,13 @@ class CCTVViewer:
         )
         self.status_var.set("Siap")
         self.stop_button.config(state="disabled")
+        
+        # Clear frame queue
+        while not self.frame_queue.empty():
+            try:
+                self.frame_queue.get_nowait()
+            except queue.Empty:
+                break
 
     def on_window_resize(self, event):
         # Adjust layout on window resize
@@ -391,10 +434,6 @@ class CCTVViewer:
                 self.left_panel.config(width=350)
             else:
                 self.left_panel.config(width=400)
-            
-            # Redraw video if playing
-            if self.running and self.cap:
-                self.video_canvas.delete("all")
 
     def cleanup(self):
         self.stop_stream()
